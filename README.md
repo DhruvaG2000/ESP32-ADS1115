@@ -1,10 +1,9 @@
 # ESP32-ADS1115
-This repo in detail shows how to make a voltmeter using [unclerus ADS111X library](https://github.com/UncleRus/esp-idf-lib) in ESP IDF
+This repo in detail shows how to make a voltmeter using [unclerus ADS111X library](https://github.com/UncleRus/esp-idf-lib) in **ESP IDF**
 
-![demo](img/demo.jpeg)
 
 ## Steps: 
-1. clone the library to your ~/esp/. 
+1. clone the library to your `~/esp/`. 
 ``` cd ~/esp/
 git clone https://github.com/UncleRus/esp-idf-lib.git  
 ```
